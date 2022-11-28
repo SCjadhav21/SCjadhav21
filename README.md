@@ -1,4 +1,4 @@
-       <h1> Hi there 👋, I'm Suraj Jadhav </h1>
+        Hi there 👋, I'm Suraj Jadhav 
 
 A passionate & Dedicated Full Stack Web Devloper Specialization in MERN Stack.
 
